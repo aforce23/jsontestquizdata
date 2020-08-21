@@ -1,0 +1,835 @@
+{
+  "quiz": {
+    "Somerset": {
+      "question1": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Caribbean Sea",
+          "option2": "Atlantic Ocean",
+          "option3": "Gulf of Mexico",
+          "option4": "Labrador Sea"
+        },
+        "question": "What is the ultimate, saltwater destination of the water in Laurel Hill Creek?"
+      },
+      "question2": {
+        "correctoption": 1,
+        "options": {
+          "option1": "Three",
+          "option2": "Four",
+          "option3": "Five",
+          "option4": "Six"
+        },
+        "question": "How many wind farms are located in Somerset County?"
+      },
+      "question3": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Confluence",
+          "option2": "Salisbury",
+          "option3": "Meyersdale",
+          "option4": "Rockwood"
+        },
+        "question": "Which town is furthest south in Somerset County?"
+      },
+      "question4": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Carl Walker Metzgar",
+          "option2": "William Korns",
+          "option3": "William Meyer",
+          "option4": "Scott Walker"
+        },
+        "question": "Who served as mayor of Somerset during the Borough Bicentennial?"
+      },
+      "question5": {
+        "correctoption": 2,
+        "options": {
+          "option1": "True",
+          "option2": "False"
+        },
+        "question": "The Somerset County Courthouse has less than 8 columns."
+      },
+      "question6": {
+        "correctoption": 1,
+        "options": {
+          "option1": "True",
+          "option2": "False"
+        },
+        "question": "The mountains in Somerset County are part of the Allegheny Mountain Range."
+      },
+      "question7": {
+        "correctoption": 4,
+        "options": {
+          "option1": "Oriole",
+          "option2": "Bald Eagle",
+          "option3": "Peregrine Falcon",
+          "option4": "Golden Eagle"
+        },
+        "question": "Somerset Area School District's mascot is a ____."
+      },
+      "question8": {
+        "correctoption": 4,
+        "options": {
+          "option1": "Jennerstown",
+          "option2": "New Centerville",
+          "option3": "Berlin",
+          "option4": "Salisbury"
+        },
+        "question": "Which Somerset County Community was devastated by a tornado in May 1998?"
+      },
+      "question9": {
+        "correctoption": 1,
+        "options": {
+          "option1": "Berlin",
+          "option2": "Somerset",
+          "option3": "Stoystown",
+          "option4": "Windber"
+        },
+        "question": "Brothersvalley Township surrounds which Somerset County borough?"
+      },
+      "question10": {
+        "correctoption": 2,
+        "options": {
+          "option1": "1912",
+          "option2": "1906",
+          "option3": "1898",
+          "option4": "1901"
+        },
+        "question": "An ordinance to pave the Diamond in Somerset was passed in what year?"
+      },
+      "question11": {
+        "correctoption": 4,
+        "options": {
+          "option1": "Husband Harmon",
+          "option2": "Jeremiah Black",
+          "option3": "William Penn",
+          "option4": "Tuscape Death"
+        },
+        "question": "What name did Harmon Husband assume when he sought refuge in the Somerset Area?"
+      },
+      "question12": {
+        "correctoption": 3,
+        "options": {
+          "option1": "10",
+          "option2": "21",
+          "option3": "13",
+          "option4": "16"
+        },
+        "question": "Prior to 1990, how many structures in Somerset County were listed on the National Register of Historic Places?"
+      },
+      "question13": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Two",
+          "option2": "Four",
+          "option3": "Three",
+          "option4": "Six"
+        },
+        "question": "How many times did President William McKinley visit Somerset?"
+      },
+      "question14": {
+        "correctoption": 1,
+        "options": {
+          "option1": "Somerset Trust Company",
+          "option2": "PNC Bank",
+          "option3": "First National Bank",
+          "option4": "1st Summit Bank"
+        },
+        "question": "Which bank is located at the site of the former Somerset House Hotel?"
+      },
+      "question15": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Ralph Waldo Emerson",
+          "option2": "Henry David Thoreau",
+          "option3": "Charles Dickens",
+          "option4": "Herman Melville"
+        },
+        "question": "Who was the famous author who described Somerset County in 1842 as a valley full of light and softness."
+      },
+      "question16": {
+        "correctoption": 1,
+        "options": {
+          "option1": "Iroquois",
+          "option2": "Miccosukee",
+          "option3": "Pawnee",
+          "option4": "Chickasaw"
+        },
+        "question": "Which of these Native American tribes used Somerset County as a summer hunting ground?"
+      },
+      "question17": {
+        "correctoption": 2,
+        "options": {
+          "option1": "A Christmas Carol",
+          "option2": "In Old Chicago",
+          "option3": "Boys Town",
+          "option4": "In Old Mexico"
+        },
+        "question": "What was the first movie shown at Somerset's Governor Theatre?"
+      },
+      "question18": {
+        "correctoption": 4,
+        "options": {
+          "option1": "1902",
+          "option2": "1905",
+          "option3": "1900",
+          "option4": "1895"
+        },
+        "question": "More than 12,000 people attended the Somerset County Centennial celebration held in what year?"
+      },
+      "question19": {
+        "correctoption": 1,
+        "options": {
+          "option1": "High Point Lake",
+          "option2": "Deer Valley Lake",
+          "option3": "Indian Lake",
+          "option4": "Laurel Hill Lake"
+        },
+        "question": "What Somerset County fishing spot is the highest man-made lake in Pennslyvania?"
+      },
+      "question20": {
+        "correctoption": 2,
+        "options": {
+          "option1": "August 5, 1859",
+          "option2": "June 4, 1859",
+          "option3": "May 12, 1861",
+          "option4": "June 4, 1861"
+        },
+        "question": "When did the Great Frost occur that destroyed crops in every part of the county?"
+      },
+      "question21": {
+        "correctoption": 4,
+        "options": {
+          "option1": "Boswell",
+          "option2": "Shanksville",
+          "option3": "Meyersdale",
+          "option4": "Glencoe"
+        },
+        "question": "A flash flood devastated which Somerset County town in August 1984?"
+      },
+      "question22": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Friedens",
+          "option2": "Jennerstown",
+          "option3": "Rockwood",
+          "option4": "Sipesville"
+        },
+        "question": "What is the name the Somerset County town that hosted the Fall Foliage Festival?"
+      },
+      "question23": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Westmoreland",
+          "option2": "Fayette",
+          "option3": "Cambria",
+          "option4": "Bedford"
+        },
+        "question": "What county was created from part of Somerset County in 1804?"
+      },
+      "question24": {
+        "correctoption": 1,
+        "options": {
+          "option1": "Seven Springs",
+          "option2": "Somerset Hospital",
+          "option3": "Somerset Trust Company",
+          "option4": "Somerset Area School District"
+        },
+        "question": "Which Somerset County establishment employs the largest number of people?"
+      },
+      "question25": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Alben W. Barkley",
+          "option2": "Lyndon B. Johnson",
+          "option3": "Richard Nixon",
+          "option4": "Hubert Humphrey"
+        },
+        "question": "Which U.S. Vice President spoke at Somerset Borough's Sesquicentennial?"
+      },
+      "question26": {
+        "correctoption": 4,
+        "options": {
+          "option1": "Sandvik",
+          "option2": "Arcam EBM",
+          "option3": "Atlas Pressed Metals",
+          "option4": "Hoganas"
+        },
+        "question": "What world leader of powdered metals entered North America through Somerset County?"
+      },
+      "question27": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Atlas Printing Company",
+          "option2": "Somerset Door and Column",
+          "option3": "Berkebile Oil",
+          "option4": "Berlin Lumber"
+        },
+        "question": "Which Somerset business has its product in King Hussein's Palace, The White House Rose Garden, and Tom Selleck's apartment?"
+      },
+      "question28": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Vietnam War",
+          "option2": "World War II",
+          "option3": "Civil War",
+          "option4": "World War I"
+        },
+        "question": "Which American war claimed the greatest number of Somerset County lives?"
+      },
+      "question29": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Eight",
+          "option2": "Nine",
+          "option3": "Ten",
+          "option4": "Eleven"
+        },
+        "question": "How many public golf courses are located in Somerset County?"
+      },
+      "question30": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Three",
+          "option2": "Four",
+          "option3": "Five",
+          "option4": "Six"
+        },
+        "question": "How many state parks are located in Somerset County?"
+      },
+      "question31": {
+        "correctoption": 4,
+        "options": {
+          "option1": "420 miles",
+          "option2": "1,112 miles",
+          "option3": "604 miles",
+          "option4": "885 miles"
+        },
+        "question": "Approximately how many miles of state roads run through Somerset County?"
+      },
+      "question32": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Somerset Trust Building",
+          "option2": "Somerset Courthouse",
+          "option3": "Somerset Historical Center",
+          "option4": "First Christian Church"
+        },
+        "question": "Which one of these Somerset buildings does not have a domed roof?"
+      },
+      "question33": {
+        "correctoption": 1,
+        "options": {
+          "option1": "Trinity Evangelical Lutheran Church",
+          "option2": "St. Paul's United Church of Christ",
+          "option3": "First Christian Church",
+          "option4": "Calvary United Methodist Church"
+        },
+        "question": "Which uptown Somerset church was destroyed by fire on Christmas Eve 1965?"
+      },
+      "question34": {
+        "correctoption": 1,
+        "options": {
+          "option1": "Brunerstown & Milfordtown",
+          "option2": "Coxes Creek & New Berlin",
+          "option3": "Laurel Hill & Hidden Valley",
+          "option4": "Bedford & Duncansville"
+        },
+        "question": "In 1795, Summerset Town was chosen to be the county seat. What were the two former names of Summerset Town?"
+      },
+      "question35": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Summit Diner",
+          "option2": "Oakhurst Tea Room",
+          "option3": "Pine Grill",
+          "option4": "Coal Miners Cafe"
+        },
+        "question": "Which family-owned business, est. 1933, served All You Can Eat Chicken and Waffles for 50 cents?"
+      },
+      "question36": {
+        "correctoption": 3,
+        "options": {
+          "option1": "U.S. Department of the Interior",
+          "option2": "U.S. Environmental Protection Agency",
+          "option3": "National Park Service",
+          "option4": "Federal Aviation Administration"
+        },
+        "question": "Which federal agency has the responsibility of administering the memorial to Flight 93?"
+      },
+      "question37": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Windber",
+          "option2": "Addison",
+          "option3": "Meyersdale",
+          "option4": "Seven Springs"
+        },
+        "question": "Summit Township surrounds which Somerset County borough?"
+      },
+      "question38": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Boswell",
+          "option2": "Bakersville",
+          "option3": "Confluence",
+          "option4": "Rockwood"
+        },
+        "question": "Which town is furthest west in Somerset County?"
+      },
+      "question39": {
+        "correctoption": 4,
+        "options": {
+          "option1": "24 feet",
+          "option2": "50 feet",
+          "option3": "120 feet",
+          "option4": "240 feet"
+        },
+        "question": "How far underground were the Quecreek miners trapped in 2002?"
+      },
+      "question40": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Catawba Trail",
+          "option2": "Great Shamokin Path",
+          "option3": "Nemacolin's Trail",
+          "option4": "Venango Path"
+        },
+        "question": "Route 40 follows the general route of what Native American trail?"
+      },
+      "question41": {
+        "correctoption": 2,
+        "options": {
+          "option1": "James Duff, 1947 to 1951",
+          "option2": "John Fine, 1951 to 1955",
+          "option3": "George Leader, 1955 to 1959",
+          "option4": "David Lawrence, 1959 to 1963"
+        },
+        "question": "Who was the Governor of Pennsylvania when Lake Somerset was established?"
+      },
+      "question42": {
+        "correctoption": 1,
+        "options": {
+          "option1": "Brothersvalley Township",
+          "option2": "Milford Township",
+          "option3": "Somerset Township",
+          "option4": "Conemaugh Township"
+        },
+        "question": "Which Somerset County municipality was called Bruders Thal due to its German roots of settlement?"
+      },
+      "question43": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Daily American",
+          "option2": "German Farmer",
+          "option3": "Daily Bugle",
+          "option4": "Somerset County Gazette"
+        },
+        "question": "In 1804, what was the name of the first newspaper published in Somerset County?"
+      },
+      "question44": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Addison",
+          "option2": "Stonycreek",
+          "option3": "Shade",
+          "option4": "Somerset"
+        },
+        "question": "In which county township was the first iron furnace built in 1807?"
+      },
+      "question45": {
+        "correctoption": 4,
+        "options": {
+          "option1": "4th",
+          "option2": "5th",
+          "option3": "6th",
+          "option4": "7th"
+        },
+        "question": "Somerset County is the ____ largest county in Pennslyvania."
+      },
+      "question46": {
+        "correctoption": 1,
+        "options": {
+          "option1": "Maple",
+          "option2": "Dairy",
+          "option3": "Fishing",
+          "option4": "Mining"
+        },
+        "question": "The terms Spotza, Spiles, and Keelers are terms used in relation to what Somerset County industry?"
+      },
+      "question47": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Anthracite",
+          "option2": "Subbituminous",
+          "option3": "Bituminous",
+          "option4": "Lignite"
+        },
+        "question": "What type of coal is mined in Somerset County?"
+      }
+    },
+    "Schellsburg Trivia": {
+      "question1": {
+        "correctoption": 1,
+        "options": {
+          "option1": "Culps",
+          "option2": "Schaffer ",
+          "option3": "Weaver "
+        },
+        "question": "What family started the first marble/monument shop in Schellsburg? "
+      },
+      "question2": {
+        "correctoption": 2,
+        "options": {
+          "option1": "John Smith",
+          "option2": "John Schell",
+          "option3": "John Scull"
+        },
+        "question": "Who founded the town of Scellsburg? "
+      },
+      "question3": {
+        "correctoption": 1,
+        "options": {
+          "option1": "They were all doctors in Schellsburg at one time. ",
+          "option2": "They were all farmers in Schellsburg at one time. ",
+          "option3": "They were all lawyers in Schellsburg at one time. "
+        },
+        "question": "What do these men all have in common: Ealy, Whitmore, Colvin, Brant? "
+      },
+      "question4": {
+        "correctoption": 2,
+        "options": {
+          "option1": "1806",
+          "option2": "1808",
+          "option3": "1810"
+        },
+        "question": "What year was Schellsburg founded? "
+      },
+      "question5": {
+        "correctoption": 3,
+        "options": {
+          "option1": "They were all farmers in Schellsburg at one time.",
+          "option2": "They were all lawyers in Schellsburg at one time. ",
+          "option3": "They were all teachers in Schellsburg at one time. "
+        },
+        "question": "What do these people all have in common: Wolfe, Horn, Colvin, Dull? "
+      },
+      "question6": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Mary Ann Derry",
+          "option2": "Mary Sue Derry",
+          "option3": "Mary Beth Derry "
+        },
+        "question": "What former Schellsburg resident was Miss West Virginia in 1974? "
+      },
+      "question7": {
+        "correctoption": 1,
+        "options": {
+          "option1": "Lutheran ",
+          "option2": "Reformed/UCC ",
+          "option3": "Presbyterian "
+        },
+        "question": "Name two former church buildings that have been converted into private homes in Schellsburg. "
+      },
+      "question8": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Charles Falk",
+          "option2": "Sigmund Falk",
+          "option3": "Leon Falk "
+        },
+        "question": "What Schellsburg former landowner graduated from Yale University and raised polled Hereford Cattle in Schellsburg? "
+      },
+      "question9": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Shawnee Inn ",
+          "option2": "Shawnee Valley Volunteer Fire Hall ",
+          "option3": "Old Log Church "
+        },
+        "question": "In 1950 there was a Co-Op theater in Schellsburg. Where was it located? "
+      },
+      "question10": {
+        "correctoption": 1,
+        "options": {
+          "option1": "Dean Koontz",
+          "option2": "James Patterson ",
+          "option3": "David Baldacci"
+        },
+        "question": "What famous novelist lived in Schellsburg when he was 4 years old? "
+      },
+      "question11": {
+        "correctoption": 3,
+        "options": {
+          "option1": "They are all former bankers.",
+          "option2": "They are all former gas station owners. ",
+          "option3": "They are all former grocery store owners. "
+        },
+        "question": "What do these people have in common: Slack, Mowry, May, Gollipher? "
+      },
+      "question12": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Shawnee Valley Volunteer Fire Department ",
+          "option2": "Post Office ",
+          "option3": "Shawnee's Country Market"
+        },
+        "question": "The Red Raven, a one-time popular restaurant, was located next to what building in Schellsburg? "
+      },
+      "question13": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Red Raven ",
+          "option2": "Shawnee Inn ",
+          "option3": "Jean Bonnet Tavern "
+        },
+        "question": "What restaurant was located at Somerset Trust's Schellsburg Branch in the 1950s? "
+      },
+      "question14": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Whitmore, Colvin and Brant",
+          "option2": "Winegardners, Colvins and May Brothers",
+          "option3": "Mowry, May and Gollipher"
+        },
+        "question": "Name three families who owned gas stations in Schellsburg, where the buildings are still present. "
+      },
+      "question15": {
+        "correctoption": 1,
+        "options": {
+          "option1": "Exchange Hotel ",
+          "option2": "Western Hotel ",
+          "option3": "Schellsburg Hotel ",
+          "option4": "Eastern Hotel"
+        },
+        "question": "In the early 1900s, there were two hotels in Schellsburg. What were their names? "
+      }
+    },
+    "Berlin Grand Re-Opening!": {
+      "question1": {
+        "correctoption": 1,
+        "options": {
+          "option1": "1991",
+          "option2": "1993",
+          "option3": "2002",
+          "option4": "1989"
+        },
+        "question": "Somerset Trust Company expanded into the Berlin area in this year:"
+      },
+      "question2": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Markus & Elana Yuko",
+          "option2": "Clarence & Ruth Gindlesperger",
+          "option3": "Budd & Maude Painter",
+          "option4": "Bob & Kate Keidel"
+        },
+        "question": "Prior to the construction of the Berlin branch, the property was once  owned by:"
+      },
+      "question3": {
+        "correctoption": 3,
+        "options": {
+          "option1": "An ATM",
+          "option2": "A Drive-up",
+          "option3": "A modular office",
+          "option4": "Cash recyclers"
+        },
+        "question": "The Berlin branch was the first Somerset Trust branch to use:"
+      },
+      "question4": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Jeff Cook",
+          "option2": "Sally Edmiston",
+          "option3": "Jan Burk",
+          "option4": "Hank Parke"
+        },
+        "question": "When the office first opened, the Branch Manager was:"
+      },
+      "question5": {
+        "correctoption": 3,
+        "options": {
+          "option1": "February",
+          "option2": "August",
+          "option3": "July",
+          "option4": "May"
+        },
+        "question": "The Berlin branch opened in what month:"
+      },
+      "question6": {
+        "correctoption": 4,
+        "options": {
+          "option1": "Insurance office",
+          "option2": "Hardware store",
+          "option3": "Pizza shop",
+          "option4": "Beauty & barber shop"
+        },
+        "question": "What former business was located on the same lot as the current branch?"
+      },
+      "question7": {
+        "correctoption": 3,
+        "options": {
+          "option1": "20 years",
+          "option2": "25 years",
+          "option3": "30 years",
+          "option4": "45 years "
+        },
+        "question": "The Berlin branch will celebrate this anniversary milestone next year:"
+      },
+      "question8": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Eight",
+          "option2": "Two",
+          "option3": "Four",
+          "option4": "Nine"
+        },
+        "question": "When the office opened, how many other locations did Somerset Trust Company have?"
+      },
+      "question9": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Floyd Heiple",
+          "option2": "Luella Groff",
+          "option3": "Emma Carver",
+          "option4": "Markus Yuko"
+        },
+        "question": "Due to increased growth and office expansion, Somerset Trust Company purchased an adjoining property for parking.  This property was owned by:"
+      },
+      "question10": {
+        "correctoption": 4,
+        "options": {
+          "option1": "Berlin Family Practice",
+          "option2": "Dollar General",
+          "option3": "Berlin Pharmacy",
+          "option4": "Highland Mutual Insurance Company"
+        },
+        "question": "For many years the office was a neighbor to this former business:"
+      },
+      "question11": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Jeff Cook",
+          "option2": "G Henry Cook",
+          "option3": "Peter Cook",
+          "option4": "Andy Cook"
+        },
+        "question": "This member of the Cook family was President of Somerset Trust when the Berlin office opened:"
+      },
+      "question12": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Add a walk-up window",
+          "option2": "Expand the drive-up area",
+          "option3": "Finish the second floor",
+          "option4": "Add landscaping "
+        },
+        "question": "In 2012 the Branch underwent construction to:"
+      },
+      "question13": {
+        "correctoption": 3,
+        "options": {
+          "option1": "New trees",
+          "option2": "Walk-up window",
+          "option3": "Time & Temperature sign",
+          "option4": "New parking"
+        },
+        "question": "In 2011 this feature was added to the office landscape:"
+      },
+      "question14": {
+        "correctoption": 4,
+        "options": {
+          "option1": "Richard Stern",
+          "option2": "Alan Brick",
+          "option3": "Donald Meese",
+          "option4": "Richard Poorbaugh"
+        },
+        "question": "For many years, this Berlin native was responsible for greeting the customers each day:"
+      },
+      "question15": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Angie Klotz",
+          "option2": "Collette Lehman",
+          "option3": "Cathy Rohrs",
+          "option4": "Janeen Cochran"
+        },
+        "question": "The Berlin office was always known for its summer flowers and landscape.  The lady responsible for this for many years was:"
+      },
+      "question16": {
+        "correctoption": 4,
+        "options": {
+          "option1": "Cathy Lichty",
+          "option2": "Alan Brick",
+          "option3": "Cathy Rohrs",
+          "option4": "Sandy Aurndt"
+        },
+        "question": "Which of the following people did not work at the Berlin office?"
+      },
+      "question17": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Two",
+          "option2": "Five",
+          "option3": "Three",
+          "option4": "One"
+        },
+        "question": "At one point in time there were how many community banks located in Berlin?"
+      },
+      "question18": {
+        "correctoption": 3,
+        "options": {
+          "option1": "$58 million",
+          "option2": "$101 million",
+          "option3": "$72 million",
+          "option4": "$34 million"
+        },
+        "question": "The Berlin office ranks second largest in deposit size of all Somerset Trust offices.  The current deposits total:"
+      },
+      "question19": {
+        "correctoption": 3,
+        "options": {
+          "option1": "Cathy Rohrs",
+          "option2": "Alan Brick",
+          "option3": "Emaline Diehl",
+          "option4": "Markus Yuko"
+        },
+        "question": "Which of the following employees did not serve as Branch Manager at the Berlin office?"
+      },
+      "question20": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Fourth",
+          "option2": "Sixth",
+          "option3": "Second",
+          "option4": "Ninth"
+        },
+        "question": "Sean Cook, CEO of Somerset Trust Company, is part of the ____________ generation of the Scull/Cook family:"
+      }
+    },
+    "FinTech Scavenger Hunt Clue": {
+      "question1": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Mumbai",
+          "option2": "Petra",
+          "option3": "Pasadena",
+          "option4": "Somerset"
+        },
+        "question": "This historical and archaeological city has been inhabited since 7000 BC. It is known for its rock-cut architecture and is also known as the Rose City because of the color of stone from which the infrastructure was carved."
+      },
+      "question2": {
+        "correctoption": 2,
+        "options": {
+          "option1": "Mumbai",
+          "option2": "Petra",
+          "option3": "Pasadena",
+          "option4": "Somerset"
+        },
+        "question": "This historical and archaeological city has been inhabited since 7000 BC. It is known for its rock-cut architecture and is also known as the Rose City because of the color of stone from which the infrastructure was carved."
+      }
+    }
+  },
+  "version": "4"
+}
